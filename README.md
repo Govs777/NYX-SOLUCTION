@@ -1,4 +1,4 @@
-# NYX SOLUCTION
+# SOLUCTION NYX
 
 A NYX, é um grupo de TI criado no segundo semestre de 2026.Com o objetivo de desenvolver um projeto para uma empresa com prazo de 5 semestres corridos.
 
